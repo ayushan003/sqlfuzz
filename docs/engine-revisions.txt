@@ -1,0 +1,8 @@
+DuckDB: f88890739f
+DataFusion: e8940acd4
+Turso: 730017f96
+
+Smoke tests:
+- DuckDB: SELECT 1 passed
+- DataFusion: SELECT 1 passed
+- Turso: SELECT 1 passed
