@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+logs/
+workdir/
+.env
+.venv/
+*.db
+*.db-wal
